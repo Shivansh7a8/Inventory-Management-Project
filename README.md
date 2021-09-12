@@ -1,5 +1,16 @@
 # Inventory-Management-Project
 
-Its management project which helps you to purchase product ,add items to your project and even show time of purchase/sale
-we used .json file directory and uses .ipynb python file extension.
-Python,Data Filehandling,Dictionary..
+## Features
+- Purchase product
+- Update your product database
+- Shows Date & Time of Purchase
+- There's a seperate file for all the sales done 
+
+## Extension and file directory used
+- .ipynb
+- .json
+## Programming Language used
+- Python
+## We used
+- Data Filehandling
+- Dictionary..
